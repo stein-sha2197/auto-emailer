@@ -3,10 +3,18 @@ Author: Sharon Steinke
 
 Sends an email script to the address located in the .cvs document.
 
+TO USE:
+Make sure clients.cvs is current
+Save previous script.txt to email history if applicable
+Edit script.txt, remember no name or comma after greeting.
+Edit subject
+Run program
+
 Reflection:
-All in all a fun project that my friend who owns small business asked me to write for her company
-I would not reccommend trying to get gmail to work. I did, eventually, but I wouldn't
-do it again.
+This was a fun program to write. Gmail has very strict accessabilty and security measures
+which made what seemed an easy problem in to a more complex problem.
+To solve you have to approve the "main.py" app in your gmail account
+and use the password Gmail gives you instead of your normal login password. 
 """
 import csv
 import smtplib
