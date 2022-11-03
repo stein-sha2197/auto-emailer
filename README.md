@@ -1,2 +1,2 @@
 # auto-emailer
-Programmer sends emails to contacts
+Programm sends emails to contacts
